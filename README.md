@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SanskritiSriv
 - 👀 I’m interested in Web development, Technical writing, Dance and poetry.
-- 🌱 I’m currently learning MERN TECHSTACK
+- 🌱 I’m currently learning HTML,CSS,JS
 - 📫 How to reach me , CONNECT with me on my linkedin .
 
 <!---
